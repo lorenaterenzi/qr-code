@@ -11,7 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   
 
-To develop this project I've used the design Frontend Mentor provided. As a premium member I had access to the design on Figma, so it was easier to work.
+To develop this project I've used the design Frontend Mentor provided. As a premium member I had access to the design on Figma, so it was easier to work. 
+You can access it here: https://qr-code-six-eta.vercel.app/
 
 ## Tools
 
