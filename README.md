@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   
 
+![qr-code](https://github.com/lorenaterenzi/qr-code/assets/131212075/dd047c72-99ce-4b90-b5a0-b2ae79cdde25)
 
 
   
